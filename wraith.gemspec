@@ -24,7 +24,6 @@ Gem::Specification.new do |spec|
 
   spec.add_runtime_dependency 'rake'
   spec.add_runtime_dependency 'image_size'
-  spec.add_runtime_dependency 'anemone'
   spec.add_runtime_dependency 'robotex'
   spec.add_runtime_dependency 'log4r'
   spec.add_runtime_dependency 'thor'
